@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lab goals and outcomes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ Part 1: Install and setup your personal computer with the software tools required for this course
 
-### Markdown
++ Part 2: Practice using software tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Part 3: Practice terminal or shell commands
 
-```markdown
-Syntax highlighted code block
++ Part 4: Practice keyboard shortcuts
 
-# Header 1
-## Header 2
-### Header 3
++ Part 5: Create your first Node.js server-side JavaScript file       
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/83984264/120862017-17ecbd80-c53d-11eb-954c-a7b6bea0058b.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+This lab required the following software tools.
 
-[Link](url) and ![Image](src)
-```
+- Chrome
+- Visual Studio Code
+- Visual Studio Code extensions
+- Prettier - Code formatter
+- ESLint
+- GitHub Pull Requests and Issues
+- Node.js and included npm
+- git
+- Postman
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### What I learned
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+From this lab I learned more about my command termanal and the different commands associated with it. I also learned some shortcuts for Visual studio code to make my coding more efficient. I also started to learn about debugging in this lab as well. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/83984264/120861616-6e0d3100-c53c-11eb-94f7-c8fa105a1813.png)
